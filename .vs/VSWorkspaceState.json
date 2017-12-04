@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\controllers",
+    "\\app\\controllers\\security",
+    "\\app\\models",
+    "\\app\\models\\shopping",
+    "\\app\\models\\users",
+    "\\app\\views",
+    "\\conf"
+  ],
+  "SelectedNode": "\\conf\\routes",
+  "PreviewInSolutionExplorer": false
+}
